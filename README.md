@@ -1,5 +1,5 @@
 ### Hi there 👋 , my name is Dusan Jankovic and i am learning to become Full Stack Developer
-![skills](./GitProfile.jpg)
+![skills](https://github.com/Sayrax97/Sayrax97/blob/master/GitProfile.jpg)
 
 - 🔭 I’m currently working on ... becoming Full stack develpoer
 - 🌱 I’m currently learning ... Android Development && ASP.NET
